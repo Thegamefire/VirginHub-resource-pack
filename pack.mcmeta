@@ -1,6 +1,13 @@
 {
    "pack": {
-      "pack_format": 7,
-      "description": "The virgin pack2"
+      "pack_format": 6,
+      "description": "The virgin pack: §8Werewolf Update"
+   },
+   "language": {
+      "en_ww": {
+         "name": "Werwolves",
+	 "region": "Gametown",
+	 "bidirectional":"false"
+         }
    }
 }
